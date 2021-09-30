@@ -12,3 +12,13 @@ LETSGROWMORE is all about creating opportunities for leadership development, lea
 
 LGM's goal is to help others to gain personal and professional skills in technical and non-technical areas. The purpose is to provide a structure through which students may exercise their right to freely associate in pursuit of a common purpose or goal.
 
+## DATA SCIENCE INTERNSHIP:
+
+### BEGINNER LEVEL:
+   #### 1. Iris Flowers Classification ML Project
+   #### 2. Image to Pencil Sketch with Python
+### INTERMEDIATE LEVEL:
+   #### 1. Exploratory Data Analysis on Dataset - Terrorism 
+   #### 2. Prediction using Decision Tree  Algorithm 
+### ADVANCE LEVEL:
+   #### 1. Develop A Neural Network That Can Read Handwriting
