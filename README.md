@@ -15,10 +15,10 @@ LGM's goal is to help others to gain personal and professional skills in technic
 ## DATA SCIENCE INTERNSHIP:
 
 ### BEGINNER LEVEL:
-   #### 1. Iris Flowers Classification ML Project
-   #### 2. Image to Pencil Sketch with Python
+   #### 1. [Iris Flowers Classification ML Project](https://github.com/saidixith002/LGM_VIP_DataScience/tree/main/1.%20Beginner_level/Iris_Flower)
+   #### 2. [Image to Pencil Sketch with Python](https://github.com/saidixith002/LGM_VIP_DataScience/tree/main/1.%20Beginner_level/pencil_sketch)
 ### INTERMEDIATE LEVEL:
-   #### 1. Exploratory Data Analysis on Dataset - Terrorism 
-   #### 2. Prediction using Decision Tree  Algorithm 
+   #### 1. [Exploratory Data Analysis on Dataset - Terrorism](https://github.com/saidixith002/LGM_VIP_DataScience/tree/main/2.%20Intermediate_level/Terrorism)
+   #### 2. [Prediction using Decision Tree  Algorithm](https://github.com/saidixith002/LGM_VIP_DataScience/tree/main/2.%20Intermediate_level/DecisionTree)
 ### ADVANCE LEVEL:
-   #### 1. Develop A Neural Network That Can Read Handwriting
+   #### 1. [Develop A Neural Network That Can Read Handwriting](https://github.com/saidixith002/LGM_VIP_DataScience/tree/main/3.%20Advanced_level/Develop%20A%20Neural%20Network%20That%20Can%20Read%20Handwriting)
